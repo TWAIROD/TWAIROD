@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TWAIROD
-I'm a Blockchain Developer with 5 years of professional experience and a proven track record of success in achieving extraordinary results.With a strong attention to detail,accuracy and the important ability to function well in a team setting.
+I'm a Fullstack Blockchain Developer with years of professional experience and a proven track record of success in achieving extraordinary results.With a strong attention to detail,accuracy and the important ability to function well in a team setting.
 
 - 📫 How to reach me ...
 Email- Airod.theone@gmail.com
